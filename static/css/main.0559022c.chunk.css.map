@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,UACE,oBAAqB,CACtB,MAGC,QAAS,CACT,SAAU,CACV,eAAgB","file":"main.0559022c.chunk.css","sourcesContent":[".selected {\r\n  background-color: red;\r\n}\r\n\r\n.Tabs {\r\n  margin: 0;\r\n  padding: 0;\r\n  list-style: none;\r\n}\r\n"]}
